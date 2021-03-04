@@ -21,6 +21,7 @@ const Container = () => {
   return (
     <div>
       <div>
+        <h1>ToDo Application</h1>
         <input
           placeholder="Enter ur todo"
           value={title}
